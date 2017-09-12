@@ -19,3 +19,4 @@
 
 ### Python
 - [Programming FAQ](https://docs.python.org/3.6/faq/programming.html)
+- [What are the top 10 key features/"advanced" topics of Python you would expect a senior python developer to know?](https://www.reddit.com/r/Python/comments/6wl0qk/what_are_the_top_10_key_featuresadvanced_topics/)
