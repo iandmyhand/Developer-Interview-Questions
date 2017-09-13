@@ -7,6 +7,9 @@
 
 ## Part
 
+### General
+- [Facebook Interview Preparation](http://www.geeksforgeeks.org/facebook-interview-preparation/)
+
 ### Front-end
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
