@@ -1,9 +1,10 @@
 # Good Developer Interview Questions
 
 
-## Books
+## Books & Papers
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [Advanced Programming](https://techdevguide.withgoogle.com/paths/advanced/)
+- [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
 
 
 ## Part
