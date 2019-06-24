@@ -18,7 +18,7 @@
 ### Back-end
 - [Back-end Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
   * [Answers](https://github.com/dpk22dev/Back-End-Developer-Interview-Questions)
-
+- https://hamait.tistory.com/1054
 
 ## Languages
 
